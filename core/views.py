@@ -19,7 +19,7 @@ def agregar_auto(request):
     variables = {
         'marcas':marcas
     }
-
+    #asdasd
     #preguntaremos si la peticion es de tipo POST
 
     if request.POST:
